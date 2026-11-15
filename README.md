@@ -1,6 +1,6 @@
 # Sudoku
 
-A fully-featured Sudoku game built with [CMU Graphics](https://www.cs.cmu.edu/~112/notes/notes-graphics.html) for the CMU 15-112 (Summer 2024) term project. Runs offline as a desktop app with keyboard- or mouse-only play, a backtracking solver, and a hint system (obvious singles/tuples) rather than just a bare playable grid.
+A fully-featured Sudoku game built with [CMU Graphics](https://www.cs.cmu.edu/~112/notes/notes-graphics.html) as my term project for CMU 15-112 (Fundamentals of Programming and Computer Science), taken during a Summer 2024 session at Carnegie Mellon University. Runs offline as a desktop app with keyboard- or mouse-only play, a backtracking solver, and a hint system (obvious singles/tuples) rather than just a bare playable grid.
 
 ## Features
 
